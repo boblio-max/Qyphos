@@ -1,14 +1,5 @@
-Qyphos Quantum Search Simulator
-################################################################################
-#
-#    ██████╗ ██╗   ██╗██████╗ ██╗  ██╗ ██████╗ ███████╗
-#   ██╔═══██╗╚██╗ ██╔╝██╔══██╗██║  ██║██╔═══██╗██╔════╝
-#   ██║   ██║ ╚████╔╝ ██████╔╝███████║██║   ██║███████╗
-#   ██║  ███║  ╚██╔╝  ██╔═══╝ ██╔══██║██║   ██║╚════██║
-#   ╚█████ ██║  ██║   ██║     ██║  ██║╚██████╔╝███████║
-#    ╚══════╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-#
-################################################################################
+QYPHOS QUANTUM SEARCH SIMULATOR
+
 Qyphos Core: A Next-Generation Quantum Search & Estimation Framework
 
 Qyphos is a high-performance, research-grade quantum algorithm simulator built from the ground up in Python. Originally a simple matrix-based demonstration of Grover's algorithm, it has been completely re-architected to be a powerful, scalable, and extensible framework for simulating quantum search and related algorithms on classical hardware.
