@@ -1,0 +1,11 @@
+numpy
+scipy
+numba
+psutil
+streamlit
+plotly
+pandas
+# For GPU support, install CuPy separately based on your CUDA version:
+# e.g., pip install cupy-cuda12x
+# For NVML support for GPU memory checking:
+# pip install pynvml
